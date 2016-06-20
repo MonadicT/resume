@@ -1,0 +1,3 @@
+My resume stored on Github! Version control, easy access and all that.
+
+pdflatex praki.tex should do it.
